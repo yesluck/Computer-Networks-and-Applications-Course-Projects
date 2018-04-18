@@ -1,0 +1,16 @@
+F:\File\C#\CNA\MicroChat\MicroChat\bin\Debug\MicroChat.exe.config
+F:\File\C#\CNA\MicroChat\MicroChat\bin\Debug\MicroChat.exe
+F:\File\C#\CNA\MicroChat\MicroChat\bin\Debug\MicroChat.pdb
+F:\File\C#\CNA\MicroChat\MicroChat\obj\Debug\MicroChat.csprojResolveAssemblyReference.cache
+F:\File\C#\CNA\MicroChat\MicroChat\obj\Debug\MicroChat.login.resources
+F:\File\C#\CNA\MicroChat\MicroChat\obj\Debug\MicroChat.Properties.Resources.resources
+F:\File\C#\CNA\MicroChat\MicroChat\obj\Debug\MicroChat.Resource1.resources
+F:\File\C#\CNA\MicroChat\MicroChat\obj\Debug\MicroChat.csproj.GenerateResource.Cache
+F:\File\C#\CNA\MicroChat\MicroChat\obj\Debug\MicroChat.exe
+F:\File\C#\CNA\MicroChat\MicroChat\obj\Debug\MicroChat.pdb
+F:\File\C#\CNA\MicroChat\MicroChat\obj\Debug\MicroChat.portrait.resources
+F:\File\C#\CNA\MicroChat\MicroChat\obj\Debug\MicroChat.Main.resources
+F:\File\C#\CNA\MicroChat\MicroChat\obj\Debug\MicroChat.Friend.resources
+F:\File\C#\CNA\MicroChat\MicroChat\obj\Debug\MicroChat.NewFriend.resources
+F:\File\C#\CNA\MicroChat\MicroChat\obj\Debug\MicroChat.Chat.resources
+F:\File\C#\CNA\MicroChat\MicroChat\obj\Debug\MicroChat.MultiChat.resources
